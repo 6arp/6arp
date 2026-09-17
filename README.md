@@ -35,9 +35,7 @@ On branch main
 
 working on something new...
 
-contact
-
-GitHub · Email · Website
+[contact me](https://www.youtube.com/watch?v=LZfqOuobz0A)
 
 $ exit
 
