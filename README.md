@@ -19,10 +19,11 @@ Interested in software, Linux, automation, and systems.
 
 Currently learning, experimenting, and building things that I find useful.
 
-~/stack
-Languages    →  Python · CSS/HTML · C# · <...>
-Tools        →  Git · Neovim · Docker · <...>
-Environment  →  Arch Linux · zsh · <WM/DE>
+```~/stack
+Languages    →  Python · CSS/HTML · C# 
+Tools        →  Git · Neovim · Docker 
+Environment  →  Arch Linux · zsh
+``
 
 ~/projects
 
