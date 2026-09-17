@@ -1,18 +1,3 @@
-> whoami
-┌──────────────────────────────────────────────┐
-│                                              │
-│   user@github                                │
-│   ───────────                                │
-│                                              │
-│   OS      : Arch Linux                       │
-│   Shell   : zsh                              │
-│   Editor  : neovim                           │
-│   WM      : <tu WM / DE>                     │
-│                                              │
-│   Status  : building things                  │
-│                                              │
-└──────────────────────────────────────────────┘
-
 $ cat ~/about.txt
 
 I like building things, breaking them,
