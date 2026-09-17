@@ -1,62 +1,47 @@
-$ cat ~/about.txt
+> whoami
 
-I like building things, breaking them,
-and figuring out why they broke.
+Arch Linux user · developer · tinkerer
 
-Interested in software, Linux, automation
-and anything that makes computers do cool things.
+I build things, break things, and figure out why they broke.
 
-$ ls ~/projects
-.
-├── projects/
-│   ├── project-one
-│   ├── project-two
-│   └── more-coming...
-│
-├── learning/
-│   ├── linux
-│   ├── programming
-│   └── systems
-│
-└── dotfiles/
+$ uname -a
+Linux x86_64 Arch Linux
 
-$ neofetch
-              /\                    user@github
-             /  \                   ───────────
-            /    \                  OS       Arch Linux
-           /      \                 Shell    zsh
-          /   ,,   \                Editor   Neovim
-         /   |  |   \               Terminal <your terminal>
-        /_-''    ''-_ \             Location Spain
-                                     
-                                     Languages
-                                     ├─ C / C++
-                                     ├─ Python
-                                     ├─ JavaScript
-                                     └─ <add yours>
+$ echo $EDITOR
+neovim
 
-$ git status
+$ echo $SHELL
+zsh
+
+~/about
+
+Interested in software, Linux, automation, and systems.
+
+Currently learning, experimenting, and building things that I find useful.
+
+~/stack
+Languages    →  Python · JavaScript · C/C++ · <...>
+Tools        →  Git · Neovim · Docker · <...>
+Environment  →  Arch Linux · zsh · <WM/DE>
+
+~/projects
+
+project-one — short description
+
+project-two — short description
+
+dotfiles — configs and scripts for my setup
+
+git status
 On branch main
 
-Changes not staged for commit:
-  modified:   ideas.md
-  modified:   projects.md
+working on something new...
 
-Untracked files:
-  future-projects/
+contact
 
-nothing to commit, because there's always
-something else to build.
-
-$ echo $CONTACT
-
-GitHub: you're already here
-
-Email: <your-email>
-
-Website: <your-website>
+GitHub · Email · Website
 
 $ exit
 
 
-Keep it simple. Keep learning. Keep building.
+build · break · learn · repeat
