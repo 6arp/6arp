@@ -1,4 +1,4 @@
-> whoami
+```> whoami
 
 Arch Linux user · developer · thinkpad T480s LarpMaxxing
 
@@ -19,7 +19,7 @@ Interested in software, Linux, automation, and systems.
 
 Currently learning, experimenting, and building things that I find useful.
 
-```~/stack
+~/stack
 Languages    →  Python · CSS/HTML · C# 
 Tools        →  Git · Neovim · Docker 
 Environment  →  Arch Linux · zsh
@@ -42,3 +42,4 @@ $ exit
 
 
 build · break · learn · repeat
+```
