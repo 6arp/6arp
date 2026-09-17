@@ -23,7 +23,7 @@ Currently learning, experimenting, and building things that I find useful.
 Languages    →  Python · CSS/HTML · C# 
 Tools        →  Git · Neovim · Docker 
 Environment  →  Arch Linux · zsh
-``
+
 
 ~/projects
 
