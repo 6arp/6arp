@@ -1,13 +1,77 @@
-<br clear="both">
+> whoami
+┌──────────────────────────────────────────────┐
+│                                              │
+│   user@github                                │
+│   ───────────                                │
+│                                              │
+│   OS      : Arch Linux                       │
+│   Shell   : zsh                              │
+│   Editor  : neovim                           │
+│   WM      : <tu WM / DE>                     │
+│                                              │
+│   Status  : building things                  │
+│                                              │
+└──────────────────────────────────────────────┘
 
-<h4 data-importer="text" align="right">Aruna's little femboy</h4>
+$ cat ~/about.txt
 
-###
+I like building things, breaking them,
+and figuring out why they broke.
 
-<br clear="both">
+Interested in software, Linux, automation
+and anything that makes computers do cool things.
 
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://media.tenor.com/PdKtZAFpCQkAAAAM/lets-larp-larp.gif"  />
-</div>
+$ ls ~/projects
+.
+├── projects/
+│   ├── project-one
+│   ├── project-two
+│   └── more-coming...
+│
+├── learning/
+│   ├── linux
+│   ├── programming
+│   └── systems
+│
+└── dotfiles/
 
-###
+$ neofetch
+              /\                    user@github
+             /  \                   ───────────
+            /    \                  OS       Arch Linux
+           /      \                 Shell    zsh
+          /   ,,   \                Editor   Neovim
+         /   |  |   \               Terminal <your terminal>
+        /_-''    ''-_ \             Location Spain
+                                     
+                                     Languages
+                                     ├─ C / C++
+                                     ├─ Python
+                                     ├─ JavaScript
+                                     └─ <add yours>
+
+$ git status
+On branch main
+
+Changes not staged for commit:
+  modified:   ideas.md
+  modified:   projects.md
+
+Untracked files:
+  future-projects/
+
+nothing to commit, because there's always
+something else to build.
+
+$ echo $CONTACT
+
+GitHub: you're already here
+
+Email: <your-email>
+
+Website: <your-website>
+
+$ exit
+
+
+Keep it simple. Keep learning. Keep building.
