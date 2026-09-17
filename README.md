@@ -36,10 +36,10 @@ On branch main
 
 working on something new...
 
-[contact me](https://www.youtube.com/watch?v=LZfqOuobz0A)
 
 $ exit
 
 
 build · break · learn · repeat
 ```
+[contact me](https://www.youtube.com/watch?v=LZfqOuobz0A)
