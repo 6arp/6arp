@@ -1,6 +1,6 @@
 > whoami
 
-Arch Linux user · developer · tinkerer
+Arch Linux user · developer · thinkpad T480s LarpMaxxing
 
 I build things, break things, and figure out why they broke.
 
@@ -20,17 +20,15 @@ Interested in software, Linux, automation, and systems.
 Currently learning, experimenting, and building things that I find useful.
 
 ~/stack
-Languages    →  Python · JavaScript · C/C++ · <...>
+Languages    →  Python · CSS/HTML · C# · <...>
 Tools        →  Git · Neovim · Docker · <...>
 Environment  →  Arch Linux · zsh · <WM/DE>
 
 ~/projects
 
-project-one — short description
+discord-img-logger — can't tell, it's not ethic
 
-project-two — short description
-
-dotfiles — configs and scripts for my setup
+dotfiles — private
 
 git status
 On branch main
