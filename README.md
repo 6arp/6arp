@@ -8,10 +8,10 @@ $ uname -a
 Linux x86_64 Arch Linux
 
 $ echo $EDITOR
-neovim
+nano
 
 $ echo $SHELL
-zsh
+kitty
 
 ~/about
 
@@ -21,8 +21,8 @@ Currently learning, experimenting, and building things that I find useful.
 
 ~/stack
 Languages    →  Python · CSS/HTML · C# 
-Tools        →  Git · Neovim · Docker 
-Environment  →  Arch Linux · zsh
+Tools        →  Git · Nano · Docker 
+Environment  →  Arch Linux · kitty · Hyprland
 
 
 ~/projects
